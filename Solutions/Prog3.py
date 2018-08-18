@@ -5,8 +5,8 @@ def squaresof(n):
 	return square_dict
 
 def main():
-	# n = int(input())
-	n = 8
+	n = int(input())
+	# n = 8
 	print (squaresof(n))
 
 
